@@ -14,4 +14,4 @@ Database and tables were created from PostgreSQL terminal commands and then dump
 * Adding a unique column: ALTER TABLE table_name ADD UNIQUE (column_name);
 * Creating a new table with complex columns: CREATE TABLE table_name(column_name DATATYPE CONSTRAINTS);
 * Adding a foreign key: ALTER TABLE table_name ADD FOREIGN KEY(column_name) REFERENCES reference_table(reference_column);
-* Adding a new rows: INSERT INTO table_name(column1, column2, column3) VALUES(value1, value2, value3), (value4, value5, value6);
+* Adding new rows: INSERT INTO table_name(column_1, column_2, column_3) VALUES(value_1, value_2, value_3), (value_4, value_5, value_6);
