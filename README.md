@@ -1,4 +1,4 @@
-# Universe-SQL-FFC
+# Universe.sql PostgreSQL Database Project
 
 ## Objective
 To create a "cosmic" database linking 5 different tables (moon, planet, star, galaxy and cosmic) based on 1-1 or 1-many relationships. 
